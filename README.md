@@ -4,6 +4,6 @@ Scientific initiation project, whose application is focused on the optimization 
 API:
 Run the app with the following command:
 
-$ node app.js
+$ node ./bin/www
 
 Then, load http://localhost:3000/ in a browser to see the output.
