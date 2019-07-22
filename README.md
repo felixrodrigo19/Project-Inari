@@ -4,6 +4,7 @@ Scientific initiation project, whose application is focused on the optimization 
 API:
 
 Run:
+
 npm install
 
 Run the app with the following command:
