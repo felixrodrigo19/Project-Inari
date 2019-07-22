@@ -2,6 +2,10 @@
 Scientific initiation project, whose application is focused on the optimization of agriculture.
 
 API:
+
+Run:
+npm install
+
 Run the app with the following command:
 
 $ node ./bin/www
